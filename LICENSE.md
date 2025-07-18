@@ -7,35 +7,33 @@ Section 1 – Definitions.
 
 2. Adapter's License means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
 
-3. ONC-SA Compatible License means a license that complies with the terms of this Public License, including the requirement that any derivative work must be released under the same or a compatible open license.
+3. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 
-4. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+4. Effective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
 
-5. Effective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+5. Exceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
 
-6. Exceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+6. License Elements means the license attributes listed in the name of this Public License. The License Elements of this Public License are Attribution, NonCommercial, ShareAlike, and Exclusive License Requirement for Derivatives.
 
-7. License Elements means the license attributes listed in the name of this Public License. The License Elements of this Public License are Attribution, NonCommercial, ShareAlike, and Open Source Requirement for Derivatives.
+7. Licensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
 
-8. Licensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+8. Licensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
 
-9. Licensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+9. Licensor means the individual(s) or entity(ies) granting rights under this Public License.
 
-10. Licensor means the individual(s) or entity(ies) granting rights under this Public License.
+10. NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
 
-11. NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
+11. Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 
-12. Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+12. Sui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
 
-13. Sui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-
-14. You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+13. You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
 
 Section 2 – Scope.
 1. License grant.
 Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
 a. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
-b. produce, reproduce, and Share Adapted Material for NonCommercial purposes only, provided that any derivative work or modification ("Secondary Development") must be released under this same license (ONC-SA) or a compatible open license that ensures the same freedoms.
+b. produce, reproduce, and Share Adapted Material for NonCommercial purposes only, provided that any derivative work or modification ("Secondary Development") must be released under this exact same license (ONC-SA) with no exceptions.
 
 2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
@@ -45,7 +43,7 @@ b. produce, reproduce, and Share Adapted Material for NonCommercial purposes onl
 
 5. Downstream recipients.
 a. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
-b. Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
+b. Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter's License You apply.
 c. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
 6. No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
@@ -71,11 +69,18 @@ iii. indicate the Licensed Material is licensed under this Public License, and i
 b. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.  
 c. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.  
 
-2. ShareAlike & Open Source Requirement for Derivatives.  
+2. ShareAlike & Exclusive License Requirement for Derivatives.  
 a. In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply:  
-i. The Adapter’s License You apply must be this ONC-SA license or a compatible open license that ensures the same freedoms.  
-ii. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.  
-iii. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.  
+i. The Adapter's License You apply must be this exact ONC-SA license.  
+ii. You must include the text of, or the URI or hyperlink to, this ONC-SA license. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.  
+iii. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under this ONC-SA license.  
+
+3. Exclusive License Requirement.
+Any Adapted Material must be licensed exclusively under this ONC-SA license. You may not:
+a. dual-license or multi-license Adapted Material under any other license;
+b. grant additional permissions beyond those specified in this license;
+c. create exceptions or carve-outs for specific uses or users;
+d. apply any other open source, Creative Commons, or proprietary license to Adapted Material.
 
 Section 4 – Sui Generis Database Rights.  
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:  
@@ -106,4 +111,4 @@ Section 8 – Interpretation.
 a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.  
 b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.  
 c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.  
-d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.  
+d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
