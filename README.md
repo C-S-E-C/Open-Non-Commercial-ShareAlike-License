@@ -17,7 +17,7 @@ The **Open Non-Commercial ShareAlike License (ONC-SA)** is a copyright license t
 
 - **Non-Commercial Only**: Material can only be used for non-commercial purposes
 - **Attribution Required**: You must credit the original creator and include license notices
-- **ShareAlike**: Any derivative works must be released under the same ONC-SA license
+- **ShareAlike**: Any derivative works must be released under the same ONC-SA license【updated in 2.0】
 - **Open Source Requirement**: All derivatives must remain open and freely accessible
 
 
