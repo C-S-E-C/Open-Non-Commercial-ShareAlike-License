@@ -1,4 +1,7 @@
-### Open Non-Commercial ShareAlike License (ONC-SA) Summary
+### Open Non-Commercial ShareAlike License (ONC-SA)
+This is a license made by C-S-E-C,feel free to use it (lisence at LICENSE.md)
+here is a summary:
+
 
 The **Open Non-Commercial ShareAlike License (ONC-SA)** is a copyright license that allows users to freely use, modify, and share licensed material under specific conditions. Here are the key points:
 
