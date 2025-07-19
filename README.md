@@ -24,7 +24,7 @@ The **Open Non-Commercial ShareAlike License (ONC-SA)** is a copyright license t
 ## Important Conditions
 
 1. **Attribution**: Must retain creator identification, copyright notices, and license information
-2. **License Propagation**: Derivative works must use ONC-SA or compatible licenses
+2. **License Propagation**: Derivative works must use ONC-SA 【updated in 2.0】
 3. **No Additional Restrictions**: Cannot add extra terms that limit others' rights
 4. **Technical Modifications**: Allowed for format compatibility
 
